@@ -1,4 +1,4 @@
-# Advanced Image Processing and Steganography Tool
+# Image Processing and Steganography Tool
 
 This is an interactive Streamlit application that allows users to perform various image processing tasks, encode/decode secret messages into images (steganography), and detect faces & eyes in images.
 
